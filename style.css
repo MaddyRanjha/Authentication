@@ -1,0 +1,56 @@
+#signup-form {
+	width: 800px;
+	margin: 20px auto;
+}
+
+#login-form {
+	width: 700px;
+	margin: 20px auto;
+}
+
+#signup-form, #login-form {
+	display: none;
+}
+body{
+	/* background-image: url('https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGN5YmVyJTIwc2VjdXJpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60'); */
+	background-color: #fd7e14;
+    height: auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+#signup-form {
+	width: 800px;
+	margin: 20px auto;
+}
+
+#login-form {
+	width: 700px;
+	margin: 20px auto;
+}
+
+#signup-form, #login-form{
+	display: none;
+}
+.card-text,.card-title{
+	color: black;
+}
+#signup-form,#login-form{
+	border: 1px solid;
+  padding: 10px;
+  background-color: rgba(2, 30, 121, 0.5);
+  box-shadow: 5px 10px 8px 10px #888888;
+  border-radius: 20px;
+}
+/* .slider{
+	width: 80vw;
+	height: 30vh;
+} */
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+
+
+  
